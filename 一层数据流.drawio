@@ -1,14 +1,11 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram name="第 1 页" id="3CLCSSIOo8zahczoJbFW">
-    <mxGraphModel dx="802" dy="1663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="835" dy="1683" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="BV-BKrIhUCXPywJbbwwY-4" value="搜索处理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="250" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="BV-BKrIhUCXPywJbbwwY-5" value="各目标服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="786" y="250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="BV-BKrIhUCXPywJbbwwY-6" value="LLM交互模块" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="80" width="120" height="60" as="geometry" />
@@ -40,8 +37,8 @@
         </mxCell>
         <mxCell id="BV-BKrIhUCXPywJbbwwY-13" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="640" y="279.66" as="sourcePoint" />
-            <mxPoint x="784" y="279.66" as="targetPoint" />
+            <mxPoint x="640" y="270" as="sourcePoint" />
+            <mxPoint x="784" y="270" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BV-BKrIhUCXPywJbbwwY-14" value="搜索请求数据报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BV-BKrIhUCXPywJbbwwY-13">
@@ -49,13 +46,13 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BV-BKrIhUCXPywJbbwwY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="BV-BKrIhUCXPywJbbwwY-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="596" y="310" as="targetPoint" />
-            <mxPoint x="860" y="310" as="sourcePoint" />
+            <mxPoint x="790" y="350" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="860" y="330" />
-              <mxPoint x="596" y="330" />
+              <mxPoint x="790" y="350" />
+              <mxPoint x="596" y="350" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -66,10 +63,10 @@
         </mxCell>
         <mxCell id="BV-BKrIhUCXPywJbbwwY-18" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=-0.022;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="220" as="sourcePoint" />
-            <mxPoint x="247.36" y="278.5" as="targetPoint" />
+            <mxPoint x="182.64" y="210" as="sourcePoint" />
+            <mxPoint x="250" y="268.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="278" />
+              <mxPoint x="182.64" y="268" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -95,15 +92,12 @@
         <mxCell id="BV-BKrIhUCXPywJbbwwY-23" value="搜索处理系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="520" y="540" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="BV-BKrIhUCXPywJbbwwY-24" value="各目标服务器" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="786" y="540" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="BV-BKrIhUCXPywJbbwwY-34" value="" style="edgeStyle=segmentEdgeStyle;endArrow=classic;html=1;curved=0;rounded=0;endSize=8;startSize=8;entryX=-0.022;entryY=0.475;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="180" y="510" as="sourcePoint" />
-            <mxPoint x="247.36" y="568.5" as="targetPoint" />
+            <mxPoint x="182.64" y="500" as="sourcePoint" />
+            <mxPoint x="250" y="558.5" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="180" y="568" />
+              <mxPoint x="182.64" y="558" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -162,18 +156,78 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BV-BKrIhUCXPywJbbwwY-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+        <mxCell id="BV-BKrIhUCXPywJbbwwY-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="600" y="600.3399999999999" as="targetPoint" />
-            <mxPoint x="864" y="600.3399999999999" as="sourcePoint" />
+            <mxPoint x="310" y="600" as="targetPoint" />
+            <mxPoint x="554" y="599.9999999999999" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="864" y="620.3399999999999" />
-              <mxPoint x="600" y="620.3399999999999" />
+              <mxPoint x="554" y="620" />
+              <mxPoint x="310" y="620" />
+              <mxPoint x="310" y="600" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="BV-BKrIhUCXPywJbbwwY-47" value="搜索结果数据报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BV-BKrIhUCXPywJbbwwY-46">
+        <mxCell id="BV-BKrIhUCXPywJbbwwY-49" value="搜索结果集合" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BV-BKrIhUCXPywJbbwwY-48">
           <mxGeometry x="-0.0172" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BV-BKrIhUCXPywJbbwwY-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="310" y="310" as="targetPoint" />
+            <mxPoint x="544" y="309.99999999999994" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="550" y="310" />
+              <mxPoint x="550" y="330" />
+              <mxPoint x="310" y="330" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BV-BKrIhUCXPywJbbwwY-51" value="搜索结果集合" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BV-BKrIhUCXPywJbbwwY-50">
+          <mxGeometry x="-0.0172" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BV-BKrIhUCXPywJbbwwY-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="600" y="600" as="targetPoint" />
+            <mxPoint x="794" y="640" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="794" y="640" />
+              <mxPoint x="600" y="640" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BV-BKrIhUCXPywJbbwwY-53" value="搜索结果数据报" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BV-BKrIhUCXPywJbbwwY-52">
+          <mxGeometry x="-0.0172" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BV-BKrIhUCXPywJbbwwY-54" value="&lt;b&gt;开启自然语言搜索功能&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="200" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BV-BKrIhUCXPywJbbwwY-55" value="&lt;b&gt;关闭自然语言搜索功能&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="490" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="BV-BKrIhUCXPywJbbwwY-56" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="590" as="sourcePoint" />
+            <mxPoint x="80" y="590" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BV-BKrIhUCXPywJbbwwY-57" value="排序后的搜索结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BV-BKrIhUCXPywJbbwwY-56">
+          <mxGeometry x="0.0075" y="-2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BV-BKrIhUCXPywJbbwwY-58" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="250" y="300" as="sourcePoint" />
+            <mxPoint x="80" y="300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BV-BKrIhUCXPywJbbwwY-59" value="排序后的搜索结果" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="BV-BKrIhUCXPywJbbwwY-58">
+          <mxGeometry x="0.0075" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
