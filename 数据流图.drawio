@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram name="第 1 页" id="WgrM9Yzybqfbt9q3cu2d">
-    <mxGraphModel dx="835" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="691" dy="426" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -91,6 +91,17 @@
         <mxCell id="j4r8EuRng6hKSvw0cmMu-20" value="返回数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j4r8EuRng6hKSvw0cmMu-19">
           <mxGeometry x="-0.0172" relative="1" as="geometry">
             <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j4r8EuRng6hKSvw0cmMu-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="473.76" y="320" as="sourcePoint" />
+            <mxPoint x="473.76" y="430" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="j4r8EuRng6hKSvw0cmMu-22" value="生成日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j4r8EuRng6hKSvw0cmMu-21">
+          <mxGeometry x="-0.3392" y="1" relative="1" as="geometry">
+            <mxPoint x="-1" y="13" as="offset" />
           </mxGeometry>
         </mxCell>
       </root>
