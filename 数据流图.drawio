@@ -93,20 +93,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="j4r8EuRng6hKSvw0cmMu-21" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="473.76" y="320" as="sourcePoint" />
-            <mxPoint x="473.76" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j4r8EuRng6hKSvw0cmMu-22" value="生成日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="j4r8EuRng6hKSvw0cmMu-21">
-          <mxGeometry x="-0.3392" y="1" relative="1" as="geometry">
-            <mxPoint x="-1" y="13" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="j4r8EuRng6hKSvw0cmMu-23" value="用户本地存储空间" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="414" y="430" width="120" height="60" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
