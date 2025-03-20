@@ -1,10 +1,10 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0" version="26.1.1">
   <diagram name="第 1 页" id="sQKyFXkG9tEpdB2zIKN7">
-    <mxGraphModel dx="573" dy="353" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1662" dy="514" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="QiWJ2xzHUQRs3mexZXQd-1" value="维护人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="QiWJ2xzHUQRs3mexZXQd-1" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="200" y="130" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="QiWJ2xzHUQRs3mexZXQd-2" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
@@ -19,12 +19,6 @@
         <mxCell id="QiWJ2xzHUQRs3mexZXQd-4" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="QiWJ2xzHUQRs3mexZXQd-7">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="405" y="520" as="sourcePoint" />
-            <mxPoint x="404.5800000000001" y="182.5" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="QiWJ2xzHUQRs3mexZXQd-10" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" target="QiWJ2xzHUQRs3mexZXQd-7">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="405" y="400" as="sourcePoint" />
             <mxPoint x="404.5800000000001" y="182.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -52,6 +46,35 @@
           <mxGeometry x="-0.166" y="1" relative="1" as="geometry">
             <mxPoint x="-19" y="1" as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="QiWJ2xzHUQRs3mexZXQd-40" value="" style="endArrow=classic;html=1;rounded=0;exitX=0;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="329.17" as="sourcePoint" />
+            <mxPoint x="25" y="329.17" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QiWJ2xzHUQRs3mexZXQd-41" value="3：上传日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QiWJ2xzHUQRs3mexZXQd-40">
+          <mxGeometry x="0.3385" y="1" relative="1" as="geometry">
+            <mxPoint x="14" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QiWJ2xzHUQRs3mexZXQd-44" value="维护人员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry y="130" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="QiWJ2xzHUQRs3mexZXQd-45" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" source="QiWJ2xzHUQRs3mexZXQd-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="15" y="380" as="sourcePoint" />
+            <mxPoint x="14.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QiWJ2xzHUQRs3mexZXQd-47" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1" target="QiWJ2xzHUQRs3mexZXQd-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="15" y="380" as="sourcePoint" />
+            <mxPoint x="14.5" y="220" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="QiWJ2xzHUQRs3mexZXQd-46" value="" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="5" y="330" width="20" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
