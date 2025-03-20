@@ -4,24 +4,6 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RUnobG6nn0BxNbAFJMlj-1" value="学生" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="614" y="310" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RUnobG6nn0BxNbAFJMlj-4" value="教职工" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
-          <mxGeometry x="614" y="430" width="30" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RUnobG6nn0BxNbAFJMlj-5" value="" style="endArrow=block;endFill=0;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="610" y="340" as="sourcePoint" />
-            <mxPoint x="510" y="390" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RUnobG6nn0BxNbAFJMlj-7" value="" style="endArrow=block;endFill=0;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="160" relative="1" as="geometry">
-            <mxPoint x="610" y="460" as="sourcePoint" />
-            <mxPoint x="510" y="430" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="RUnobG6nn0BxNbAFJMlj-10" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
           <mxGeometry x="470" y="380" width="30" height="60" as="geometry" />
         </mxCell>
