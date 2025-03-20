@@ -44,8 +44,8 @@
         </mxCell>
         <mxCell id="QiWJ2xzHUQRs3mexZXQd-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="390" y="280" as="sourcePoint" />
-            <mxPoint x="220" y="280" as="targetPoint" />
+            <mxPoint x="390" y="310" as="sourcePoint" />
+            <mxPoint x="220" y="310" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="QiWJ2xzHUQRs3mexZXQd-14" value="2：导出所需日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="QiWJ2xzHUQRs3mexZXQd-13">
