@@ -31,7 +31,7 @@
             <mxPoint x="220" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="QiWJ2xzHUQRs3mexZXQd-14" value="1：导出所需日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QiWJ2xzHUQRs3mexZXQd-13" vertex="1" connectable="0">
+        <mxCell id="QiWJ2xzHUQRs3mexZXQd-14" value="1：读取所需日志" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="QiWJ2xzHUQRs3mexZXQd-13" vertex="1" connectable="0">
           <mxGeometry x="-0.166" y="1" relative="1" as="geometry">
             <mxPoint x="-19" y="-1" as="offset" />
           </mxGeometry>
