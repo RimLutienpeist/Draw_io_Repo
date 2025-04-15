@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.12">
   <diagram name="第 1 页" id="hf9TLOxkJmJITZOPAGZx">
-    <mxGraphModel dx="949" dy="1761" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1172" dy="1901" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -240,7 +240,7 @@
           <mxGeometry x="1925" y="99" width="50" height="240" as="geometry" />
         </mxCell>
         <mxCell id="_K15StUsaY39ZyzTZjal-90" value="LLM" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="2100" y="-325" width="118.13" height="90" as="geometry" />
+          <mxGeometry x="2068" y="-325" width="118.13" height="90" as="geometry" />
         </mxCell>
         <mxCell id="_K15StUsaY39ZyzTZjal-91" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;数据层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1827.5" y="-225" width="105" height="30" as="geometry" />
@@ -268,6 +268,13 @@
         </mxCell>
         <mxCell id="_K15StUsaY39ZyzTZjal-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1.013;entryY=0.554;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="_K15StUsaY39ZyzTZjal-86" target="_K15StUsaY39ZyzTZjal-97">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_K15StUsaY39ZyzTZjal-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.427;entryY=0.036;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_K15StUsaY39ZyzTZjal-95" target="_K15StUsaY39ZyzTZjal-80">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1875" y="-308" />
+            </Array>
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
