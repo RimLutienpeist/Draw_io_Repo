@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/135.0.0.0" version="26.2.12">
   <diagram name="第 1 页" id="hf9TLOxkJmJITZOPAGZx">
-    <mxGraphModel dx="996" dy="622" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="830" dy="1687" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -125,6 +125,44 @@
         </mxCell>
         <mxCell id="aK79IHoWiY9nvJ88uHWK-30" value="核心控制模块" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="280" y="530" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_K15StUsaY39ZyzTZjal-35" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="226" y="-290" width="296" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="_K15StUsaY39ZyzTZjal-38" value="AI配置模块" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="429" y="-240" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_K15StUsaY39ZyzTZjal-42" value="&lt;font size=&quot;1&quot;&gt;&lt;b&gt;视图层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="304" y="-240" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_K15StUsaY39ZyzTZjal-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="_K15StUsaY39ZyzTZjal-44" target="_K15StUsaY39ZyzTZjal-51">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="373.6896551724137" y="-300" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_K15StUsaY39ZyzTZjal-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" edge="1" parent="1" source="_K15StUsaY39ZyzTZjal-44" target="_K15StUsaY39ZyzTZjal-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_K15StUsaY39ZyzTZjal-44" value="用户" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="314" y="-390" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_K15StUsaY39ZyzTZjal-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="_K15StUsaY39ZyzTZjal-45" target="_K15StUsaY39ZyzTZjal-54">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_K15StUsaY39ZyzTZjal-45" value="应用层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="-259.08" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_K15StUsaY39ZyzTZjal-46" value="数据层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="450" y="-140" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_K15StUsaY39ZyzTZjal-51" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="352.15" y="-300" width="43.69" height="21.84" as="geometry" />
+        </mxCell>
+        <mxCell id="_K15StUsaY39ZyzTZjal-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.322;entryY=0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_K15StUsaY39ZyzTZjal-38" target="_K15StUsaY39ZyzTZjal-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_K15StUsaY39ZyzTZjal-54" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="208.99999999999997" y="-240" width="43.69" height="21.84" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
