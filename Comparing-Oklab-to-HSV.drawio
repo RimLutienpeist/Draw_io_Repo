@@ -1,9 +1,24 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="lPUBczI63MHTL16wKU7U">
-    <mxGraphModel>
+    <mxGraphModel dx="2323" dy="906" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <UserObject label="&lt;img src=&quot;https://bottosson.github.io/img/oklab/hue_oklab.png&quot; alt=&quot;Oklab varying hue plot&quot;&gt;" link="&lt;img src=&quot;https://bottosson.github.io/img/oklab/hue_oklab.png&quot; alt=&quot;Oklab varying hue plot&quot;&gt;" id="tam7txandm1dSrO2oTjM-2">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="40" width="30" x="-140" y="190" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;img src=&quot;https://bottosson.github.io/img/oklab/hue_hsv.png&quot; alt=&quot;HSV varying hue plot&quot;&gt;" link="&lt;img src=&quot;https://bottosson.github.io/img/oklab/hue_hsv.png&quot; alt=&quot;HSV varying hue plot&quot;&gt;" id="tam7txandm1dSrO2oTjM-3">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="40" width="30" x="-140" y="390" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="&lt;img src=&quot;https://bottosson.github.io/img/oklab/hue_hsv_lightness.png&quot; alt=&quot;HSV varying hue plot lightness&quot;&gt;" link="&lt;img src=&quot;https://bottosson.github.io/img/oklab/hue_hsv_lightness.png&quot; alt=&quot;HSV varying hue plot lightness&quot;&gt;" id="tam7txandm1dSrO2oTjM-4">
+          <mxCell parent="1" style="text;whiteSpace=wrap;html=1;" vertex="1">
+            <mxGeometry height="40" width="30" x="-140" y="590" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
